@@ -19,3 +19,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+---
+
+## 🧩 Step 4 — First Feature to Build
+
+Let’s start with a simple, working **Crypto Data Fetcher** using `ccxt` inside `datahub/fetch_crypto_data.py`:
+
+It’ll:
+- Pull BTC, ETH, SOL prices from Binance
+- Save them to CSV
+- Print summary (like avg price, change %)
+
+Would you like me to generate that **Python script** as the **first real code file** for your repo?  
+(We can then move to FX or JSE data fetch next.)
